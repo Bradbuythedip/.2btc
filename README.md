@@ -1,6 +1,6 @@
 # Bitcoin 0.2 BTC Puzzle Analysis
 
-This repository contains analysis and solution attempts for the 0.2 BTC puzzle from privatekeys.pw.
+This repository contains analysis and solution attempts for the 0.2 BTC puzzle from privatekeys.pw. https://privatekeys.pw/puzzles/0.2-btc-puzzle
 
 ## Puzzle Details
 
